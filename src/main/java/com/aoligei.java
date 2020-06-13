@@ -8,5 +8,6 @@ public class aoligei {
         System.out.println("1111");
         System.out.println("1111");
         System.out.println("1111");
+        System.out.println("分支");
     }
 }
