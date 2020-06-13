@@ -5,6 +5,6 @@ public class aoligei {
         System.out.println("11111");
         System.out.println("hello world!");
         System.out.println("hello world!");
-        System.out.println("hello world!");
+        System.out.println("1111");
     }
 }
